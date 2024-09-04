@@ -8,7 +8,7 @@
 <div>
 <div>
   <!-- Footer -->
-  <div align="center">
+  <div align="left">
 
-<img height="80" alt="Gracias" width="100%" src="./imagenes/thanks.gif" />
+<img height="80" alt="Gracias" width="100%" src="./imagenes/gato.gif" />
 <br />
