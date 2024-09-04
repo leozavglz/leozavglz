@@ -14,5 +14,5 @@
   <!-- Footer -->
   <div align="center">
 
-<img height="30" alt="Gracias" width="100%" src="./imagenes/thanks.gif" />
+<img height="80" alt="Gracias" width="100%" src="./imagenes/thanks.gif" />
 <br />
