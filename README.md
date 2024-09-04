@@ -10,5 +10,5 @@
   <!-- Footer -->
   <div align="left">
 
-<img height="80" alt="Gracias" width="100%" src="./imagenes/gato.gif" />
+<img height="80" alt="Gracias" width="30" src="./imagenes/gato.gif" />
 <br />
