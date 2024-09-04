@@ -5,9 +5,14 @@
   <img height="70" alt="My name is Leo and idk how to use Git" src="./imagenes/Im.png" />
   <br />
   <br />
-
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
   <!-- Footer -->
   <div align="center">
 
-<img height="120" alt="Gracias" width="100%" src="./imagenes/thanks.gif" />
+<img height="30" alt="Gracias" width="100%" src="./imagenes/thanks.gif" />
 <br />
