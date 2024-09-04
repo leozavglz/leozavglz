@@ -5,12 +5,8 @@
   <img height="70" alt="My name is Leo and idk how to use Git" src="./imagenes/Im.png" />
   <br />
   <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
+<div>
+<div>
   <!-- Footer -->
   <div align="center">
 
