@@ -26,8 +26,10 @@
 <div>
   <!-- Footer -->
   <div align="left">
+<body>
 
     <img class="gif-izquierda" src="./imagenes/gato.gif" alt="Gato">
     <img class="gif-derecha" src="./imagenes/astronauta_fondo.gif" alt="Astronauta">
-    
+  </body>
+  
 <br />
