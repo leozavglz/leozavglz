@@ -1,4 +1,21 @@
-
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            position: relative;
+        }
+        .gif-izquierda {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        .gif-derecha {
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+    </style>
 <!-- Header Principal -->
 <div align="center">
   <img src="./imagenes/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
@@ -10,5 +27,7 @@
   <!-- Footer -->
   <div align="left">
 
-<img height="80" alt="Gracias" width="80" src="./imagenes/gato.gif" />
+    <img class="gif-izquierda" src="./imagenes/gato.gif" alt="Gato">
+    <img class="gif-derecha" src="./imagenes/astronauta_fondo.gif" alt="Astronauta">
+    
 <br />
